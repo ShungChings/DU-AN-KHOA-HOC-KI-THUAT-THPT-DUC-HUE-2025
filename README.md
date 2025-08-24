@@ -253,3 +253,6 @@ Hệ thống điểm danh xe bằng công nghệ nhận diện biển số là g
 Với khả năng hoạt động 24/7, xử lý nhanh chóng và lưu trữ dữ liệu đầy đủ, phần mềm không chỉ giúp tăng hiệu quả quản lý mà còn nâng cao trải nghiệm người dùng, đảm bảo an ninh và mở ra nhiều triển khai mở rộng trong tương lai.
 
 Đây là một bước tiến quan trọng trên con đường ứng dụng công nghệ IVAN (Internet Vehicle Access Network) vào đời sống, hướng tới một hệ thống thông minh giao thông đô thị hiệu quả.
+
+
+(c) Copyright by Phan Hoài Ân, student of class 11A1.
