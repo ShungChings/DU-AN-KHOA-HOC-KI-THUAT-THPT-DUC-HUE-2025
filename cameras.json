@@ -1,0 +1,43 @@
+{
+    "cameras": [
+        {
+            "id": 0,
+            "name": "Camera USB 1",
+            "type": "usb",
+            "enabled": true
+        },
+        {
+            "id": 1,
+            "name": "Camera USB 2",
+            "type": "usb",
+            "enabled": true
+        },
+        {
+            "id": 3,
+            "name": "Camera USB 4",
+            "type": "usb",
+            "enabled": true
+        },
+        {
+            "id": 5,
+            "name": "Camera USB 6",
+            "type": "usb",
+            "enabled": true
+        }
+    ],
+    "last_used": 1,
+    "ip_cameras": [
+        {
+            "id": "ip1",
+            "name": "Camera IP 1",
+            "address": "192.168.1.100:8080",
+            "enabled": true
+        },
+        {
+            "id": "ip2",
+            "name": "Camera IP 2",
+            "address": "192.168.1.101:8080",
+            "enabled": true
+        }
+    ]
+}
